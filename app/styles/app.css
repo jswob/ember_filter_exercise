@@ -1,0 +1,16 @@
+.App-box {
+  max-width: 500px;
+  margin: auto;
+  border: 1px solid #cacaca;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.App-box input {
+  padding: 0;
+  font-size: 16px;
+  border: 0;
+  outline: none;
+  text-align: left;
+  width: 100%;
+}
